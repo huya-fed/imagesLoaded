@@ -1,6 +1,6 @@
 {
     "repos": "https://github.com/desandro/imagesloaded",
     "version": "v3.1.8",
-    "name": "imagesLoaded",
-    "main": "imagesLoaded.js"
+    "name": "imagesloaded",
+    "main": "imagesloaded.js"
 }
