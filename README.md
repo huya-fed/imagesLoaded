@@ -1,4 +1,4 @@
-#imagesLoaded.js
+#imagesloaded.js
 
 ----------
 
@@ -11,7 +11,7 @@
 
 ##使用方法
 	
-	var imagesLoaded = require('imagesLoaded');
+	var imagesLoaded = require('imagesloaded');
 
 	imagesLoaded( elem, callback )
 	// you can use `new` if you like
